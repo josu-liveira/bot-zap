@@ -53,7 +53,7 @@ async function connectToWhatsApp() {
         logger: pino({ level: 'silent' })
     });
 ```
-Aqui, definimos uma variável ```client``` que armazena a função ```makeWASocket()```, que como o próprio nome já diz, realiza a conexão com o WebSocket.
+Aqui, criamos a função assíncrona principal `connectToWhatsApp()`, onde em seu escopo definimos uma variável ```client``` que armazena a função ```makeWASocket()```, que como o próprio nome já diz, realiza a conexão com o WebSocket.
 
 Atente-se a ```printQRInTerminal```, que deve ser definido como ```true```. Isso será responsável por exibir o QR-Code de conexão em seu terminal.
 
