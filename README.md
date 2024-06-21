@@ -1,4 +1,4 @@
-# Projeto botzap
+# Projeto bot-zap
 
 ### - A idéia
 Sempre fui fascinado por chatbots, a infinidade de possibilidades e integrações práticas no meio organizacional se beneficiam muito quando se trata de automações. Idéias mais complexas e avançadas exigem a mesma dose de conhecimento em programação, por isso, este projeto está marcando muito minha evolução em desenvolvimento. Conforme estou aprendendo a programar, desenvolvo parte por parte deste projeto. Sem dúvidas, este é meu repositório preferido 🙂.
