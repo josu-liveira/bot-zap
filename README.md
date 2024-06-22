@@ -27,9 +27,20 @@ Com essa API, praticamente tudo é possível... Desde um simples chatbot até um
 #### - Limites de Conteúdo Gratuito
 Atualmente, existe pouco conteúdo em pt-BR relacionado a essa API que seja gratuito (principalmente no YouTube). Pensando nisso, tive a iniciativa de criar este repositório, onde estou estudando a documentação da API [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) e re-documentando de uma forma que seu uso seja simples e fácil, possibilitando que uma pessoa que esteja iniciando em programação consiga utilizar essa API tão poderosa.
 
+#
 
+## Requisitos e dependências
 
-# Iniciando com Baileys
+- Instale o **NodeJS** (o mais atual possível)
+
+Com o `npm`, aponte o caminho da pasta que queria armazenar os arquivos. Logo após, instale os pacotes abaixo:
+
+- `@WhiskeySockets/Baileys`
+- `qrcode-terminal`
+- `pino`
+- `axios`
+
+## Iniciando com Baileys
 
 ### - Importação de pacotes
 
