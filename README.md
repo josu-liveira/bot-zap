@@ -29,7 +29,7 @@ Atualmente, existe pouco conteúdo em pt-BR relacionado a essa API que seja grat
 
 
 
-# Como funciona
+# Iniciando com Baileys
 
 ### - Importação de pacotes
 
