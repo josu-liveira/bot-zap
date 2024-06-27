@@ -1,9 +1,6 @@
 # Projeto bot-zap - Um simples chatbot WhatsApp
 
-## Documentação
-Acesse a documentação [aqui](https://josu-liveira.github.io/bot-zap/)
-
-#
+## Acesse a documentação [aqui](https://josu-liveira.github.io/bot-zap/)
 
 Sempre fui fascinado por chatbots. A infinidade de possibilidades e integrações práticas no meio organizacional se beneficiam muito quando se trata de automações. Ideias mais complexas e avançadas exigem a mesma dose de conhecimento em programação, por isso, este projeto está marcando muito minha evolução em desenvolvimento. Conforme estou aprendendo a programar, desenvolvo parte por parte deste projeto. Sem dúvidas, este é meu repositório preferido 🙂.
 
